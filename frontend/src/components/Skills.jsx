@@ -7,7 +7,7 @@ import {
   Code, 
   Cloud, 
   Database, 
-  Tool, 
+  Wrench, 
   Users,
   Zap
 } from 'lucide-react';

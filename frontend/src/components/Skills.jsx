@@ -22,7 +22,7 @@ const Skills = () => {
     "Programming & Scripting": { icon: Code, color: "from-blue-500 to-indigo-500" },
     "Cloud Platforms": { icon: Cloud, color: "from-cyan-500 to-blue-500" },
     "Databases": { icon: Database, color: "from-purple-500 to-pink-500" },
-    "Tools": { icon: Tool, color: "from-yellow-500 to-orange-500" },
+    "Tools": { icon: Wrench, color: "from-yellow-500 to-orange-500" },
     "Soft Skills": { icon: Users, color: "from-indigo-500 to-purple-500" }
   };
 

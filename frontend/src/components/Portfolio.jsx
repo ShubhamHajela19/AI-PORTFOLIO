@@ -11,7 +11,7 @@ import Footer from './Footer';
 
 const Portfolio = () => {
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gray-900 text-white">
       <Header />
       <Hero />
       <About />
